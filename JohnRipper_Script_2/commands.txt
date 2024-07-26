@@ -1,0 +1,5 @@
+python3 john_script.py hash1.txt rockyou.txt md5
+
+python3 john_script.py hash2.txt rockyou.txt sha1
+
+python3 john_script.py hash3.txt rockyou.txt nt
